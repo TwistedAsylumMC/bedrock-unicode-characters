@@ -23,3 +23,13 @@ Minecraft:Bedrock Edition Unicode characters
 | R2 Button       | Play Station |          | e027    |
 | Select Button   | Play Station |          | e028    |
 | Start Button    | Play Station |          | e029    |
+| A Button        | Nintendo     |          | e040    |
+| B Button        | Nintendo     |          | e041    |
+| X Button        | Nintendo     |          | e042    |
+| Y Button        | Nintendo     |          | e043    |
+| L Button        | Nintendo     |          | e044    |
+| R Button        | Nintendo     |          | e045    |
+| ZL Button       | Nintendo     |          | e046    |
+| ZR Button       | Nintendo     |          | e047    |
+| - Button        | Nintendo     |          | e048    |
+| + Button        | Nintendo     |          | e049    |
