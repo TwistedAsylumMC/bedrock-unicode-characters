@@ -1,6 +1,14 @@
 # bedrock-unicode-characters
 Minecraft:Bedrock Edition Unicode characters
 
+## How to use
+Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, signs, titles etc.
+
+## How does it work?
+Minecraft asigned images to unicode characters, and didn't remove the ability for players to use them.
+
+## List of all characters
+
 |          Name          |   Platform   | Character | Unicode |
 |:----------------------:|:------------:|:---------:|:-------:|
 |        A Button        |     X-Box    |          |  U+E000 |
