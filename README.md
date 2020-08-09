@@ -5,7 +5,7 @@ Minecraft:Bedrock Edition Unicode characters
 Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, signs, titles etc.
 
 ## How does it work?
-Minecraft asigned images to unicode characters, and didn't remove the ability for players to use them.
+Minecraft uses resource packs to assign characters (glyphs) to different unicode values, which is how the game allows you to type in chat and write on signs etc. Because fonts are just textures in a resource pack, it also allows the game to add "emojis" which have their own unicode values assign to them just like letters.
 
 ## List of all characters
 
