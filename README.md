@@ -76,6 +76,8 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |            Armor Icon            |      All     |          |  U+E101 |            ![](./images/armour.png)            |
 |             Minecoin             |      All     |          |  U+E102 |           ![](./images/minecoin.png)           |
 |        Code Builder Button       |      All     |          |  U+E103 |         ![](./images/code-builder.png)         |
+|      Immersive Reader Button     |      All     |          |  U+E104 |    ![](./images/immersive-reader-button.png)   |
+|               Token              |      All     |          |  U+E105 |             ![](./images/token.png)            |
 |         Left Grab Button         |  Windows MR  |          |  U+E0C0 |             ![](./images/mr-lg.png)            |
 |         Right Grab Button        |  Windows MR  |          |  U+E0C1 |             ![](./images/mr-rg.png)            |
 |            Menu Button           |  Windows MR  |          |  U+E0C2 |            ![](./images/mr-menu.png)           |
