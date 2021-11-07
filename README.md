@@ -34,7 +34,7 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |             L1 Button            | PlayStation |          |  U+E024 |             ![](./images/ps-l1.png)            |
 |             R1 Button            | PlayStation |          |  U+E025 |             ![](./images/ps-r1.png)            |
 |             L2 Button            | PlayStation |          |  U+E026 |             ![](./images/ps-l2.png)            |
-|             R2 Button            | PlayStation |          |  U+E027 |             ![](./images/ps-r2.png)            |
+|             R2 Button            | PlayStation |          |  U+E027 |             ![](./images/sword-r2.png)            |
 |           Select Button          | PlayStation |          |  U+E028 |           ![](./images/ps-select.png)          |
 |           Start Button           | PlayStation |          |  U+E029 |           ![](./images/ps-start.png)           |
 |         Left Stick Button        | PlayStation |          |  U+E02A |             ![](./images/ps-l3.png)            |
