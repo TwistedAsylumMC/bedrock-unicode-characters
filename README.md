@@ -78,6 +78,8 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |        Code Builder Button       |     All     |          |  U+E103 |         ![](./images/code-builder.png)         |
 |      Immersive Reader Button     |     All     |          |  U+E104 |    ![](./images/immersive-reader-button.png)   |
 |               Token              |     All     |          |  U+E105 |             ![](./images/token.png)            |
+|            Hollow Star           |     All     |          |  U+E106 |          ![](./images/hollow-star.png)         |
+|             Solid Star           |     All     |          |  U+E107 |          ![](./images/solid-star.png)          |
 |         Left Grab Button         |  Windows MR |          |  U+E0C0 |             ![](./images/mr-lg.png)            |
 |         Right Grab Button        |  Windows MR |          |  U+E0C1 |             ![](./images/mr-rg.png)            |
 |            Menu Button           |  Windows MR |          |  U+E0C2 |            ![](./images/mr-menu.png)           |
