@@ -27,6 +27,12 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |         D-Pad Left Button        |    Xbox     |          |  U+E00D |          ![](./images/xbox-d-left.png)         |
 |         D-Pad Down Button        |    Xbox     |          |  U+E00E |          ![](./images/xbox-d-down.png)         |
 |        D-Pad Right Button        |    Xbox     |          |  U+E00F |         ![](./images/xbox-d-right.png)         |
+|          A Button Bright         |    Xbox     |          |  U+E010 |         ![](./images/xbox-a-bright.png)        |
+|          B Button Bright         |    Xbox     |          |  U+E011 |         ![](./images/xbox-b-bright.png)        |
+|          X Button Bright         |    Xbox     |          |  U+E012 |         ![](./images/xbox-x-bright.png)        |
+|          Y Button Bright         |    Xbox     |          |  U+E013 |         ![](./images/xbox-y-bright.png)        |
+|               Jump               |     All     |          |  U+E014 |             ![](./images/jump.png)             |
+|              Attack              |     All     |          |  U+E015 |             ![](./images/attack.png)             |
 |           Cross Button           | PlayStation |          |  U+E020 |             ![](./images/ps-x.png)             |
 |           Circle Button          | PlayStation |          |  U+E021 |             ![](./images/ps-o.png)             |
 |           Square Button          | PlayStation |          |  U+E022 |           ![](./images/ps-square.png)          |
