@@ -27,6 +27,20 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |         D-Pad Left Button        |    Xbox     |          |  U+E00D |          ![](./images/xbox-d-left.png)         |
 |         D-Pad Down Button        |    Xbox     |          |  U+E00E |          ![](./images/xbox-d-down.png)         |
 |        D-Pad Right Button        |    Xbox     |          |  U+E00F |         ![](./images/xbox-d-right.png)         |
+|          A Button Bright         |    Xbox     |          |  U+E010 |         ![](./images/xbox-a-bright.png)        |
+|          B Button Bright         |    Xbox     |          |  U+E011 |         ![](./images/xbox-b-bright.png)        |
+|          X Button Bright         |    Xbox     |          |  U+E012 |         ![](./images/xbox-x-bright.png)        |
+|          Y Button Bright         |    Xbox     |          |  U+E013 |         ![](./images/xbox-y-bright.png)        |
+|               Jump               |    Mobile   |          |  U+E014 |             ![](./images/jump.png)             |
+|              Attack              |    Mobile   |          |  U+E015 |            ![](./images/attack.png)            |
+|             Joystick             |    Mobile   |          |  U+E016 |           ![](./images/joystick.png)           |
+|             Crosshair            |    Mobile   |          |  U+E017 |           ![](./images/crosshair.png)          |
+|             Interact             |    Mobile   |          |  U+E018 |            ![](./images/interact.png)          |
+|              Crouch              |    Mobile   |          |  U+E019 |            ![](./images/crouch.png)            |
+|              Sprint              |    Mobile   |          |  U+E01A |            ![](./images/sprint.png)            |
+|              Fly Up              |    Mobile   |          |  U+E01B |            ![](./images/fly-up.png)            |
+|             Fly Down             |    Mobile   |          |  U+E01C |           ![](./images/fly-down.png)           |
+|             Dismount             |    Mobile   |          |  U+E01D |            ![](./images/dismount.png)           |
 |           Cross Button           | PlayStation |          |  U+E020 |             ![](./images/ps-x.png)             |
 |           Circle Button          | PlayStation |          |  U+E021 |             ![](./images/ps-o.png)             |
 |           Square Button          | PlayStation |          |  U+E022 |           ![](./images/ps-square.png)          |
@@ -62,6 +76,20 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |         Left Mouse Button        |   Windows   |          |  U+E060 |          ![](./images/left-mouse.png)          |
 |        Right Mouse Button        |   Windows   |          |  U+E061 |          ![](./images/right-mouse.png)         |
 |        Middle Mouse Button       |   Windows   |          |  U+E062 |         ![](./images/middle-mouse.png)         |
+|               Mouse              |   Windows   |          |  U+E063 |             ![](./images/mouse.png)            |
+|         Forward Arrow New        |    Mobile   |          |  U+E065 |        ![](./images/forward-arrow-new.png)     |
+|          Right Arrow New         |    Mobile   |          |  U+E066 |         ![](./images/right-arrow-new.png)      |
+|           Down Arrow New         |    Mobile   |          |  U+E067 |          ![](./images/down-arrow-new.png)      |
+|           Left Arrow New         |    Mobile   |          |  U+E068 |          ![](./images/left-arrow-new.png)      |
+|          Jump Button New         |    Mobile   |          |  U+E069 |          ![](./images/jump-button-new.png)     |
+|         Crouch Button New        |    Mobile   |          |  U+E06A |        ![](./images/crouch-button-new.png)     |
+|          Inventory Button        |    Mobile   |          |  U+E06B |         ![](./images/inventory-button.png)     |
+|         Fly Up Button New        |    Mobile   |          |  U+E06C |        ![](./images/fly-up-button-new.png)     |
+|        Fly Down Button New       |    Mobile   |          |  U+E06D |      ![](./images/fly-down-button-new.png)     |
+|       Left Mouse Button New      |   Windows   |          |  U+E070 |         ![](./images/left-mouse-new.png)       |
+|       Right Mouse Button New     |   Windows   |          |  U+E071 |        ![](./images/right-mouse-new.png)       |
+|      Middle Mouse Button New     |   Windows   |          |  U+E072 |        ![](./images/middle-mouse-new.png)      |
+|             Mouse New            |   Windows   |          |  U+E073 |           ![](./images/mouse-new.png)          |
 |        Foward Arrow Button       |    Mobile   |          |  U+E080 |         ![](./images/forward-arrow.png)        |
 |         Left Arrow Button        |    Mobile   |          |  U+E081 |          ![](./images/left-arrow.png)          |
 |      Backwards Arrow Button      |    Mobile   |          |  U+E082 |          ![](./images/down-arrow.png)          |
