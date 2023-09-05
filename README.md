@@ -78,9 +78,9 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |        Middle Mouse Button       |   Windows   |          |  U+E062 |         ![](./images/middle-mouse.png)         |
 |               Mouse              |   Windows   |          |  U+E063 |             ![](./images/mouse.png)            |
 |         Forward Arrow New        |    Mobile   |          |  U+E065 |        ![](./images/forward-arrow-new.png)     |
-|          Right Arrow New         |    Mobile   |          |  U+E068 |         ![](./images/right-arrow-new.png)      |
+|          Right Arrow New         |    Mobile   |          |  U+E068 |         ![](./images/right-arrow-new.png)      |
 |           Down Arrow New         |    Mobile   |          |  U+E067 |          ![](./images/down-arrow-new.png)      |
-|           Left Arrow New         |    Mobile   |          |  U+E066 |          ![](./images/left-arrow-new.png)      |
+|           Left Arrow New         |    Mobile   |          |  U+E066 |          ![](./images/left-arrow-new.png)      |
 |          Jump Button New         |    Mobile   |          |  U+E069 |          ![](./images/jump-button-new.png)     |
 |         Crouch Button New        |    Mobile   |          |  U+E06A |        ![](./images/crouch-button-new.png)     |
 |          Inventory Button        |    Mobile   |          |  U+E06B |         ![](./images/inventory-button.png)     |
