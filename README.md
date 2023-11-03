@@ -108,6 +108,11 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |               Token              |     All     |          |  U+E105 |             ![](./images/token.png)            |
 |            Hollow Star           |     All     |          |  U+E106 |          ![](./images/hollow-star.png)         |
 |             Solid Star           |     All     |          |  U+E107 |          ![](./images/solid-star.png)          |
+|           Wooden Pickaxe         |     All     |          |  U+E107 |         ![](./images/wooden-pickaxe.png)       |
+|            Wooden Sword          |     All     |          |  U+E107 |          ![](./images/wooden-sword.png)        |
+|           Crafting Table         |     All     |          |  U+E107 |          ![](./images/crafting-table.png)      |
+|              Furnace             |     All     |          |  U+E107 |            ![](./images/furnace.png)           |
+|               Heart              |     All     |          |  U+E107 |             ![](./images/heart.png)            |
 |         Left Grab Button         |  Windows MR |          |  U+E0C0 |             ![](./images/mr-lg.png)            |
 |         Right Grab Button        |  Windows MR |          |  U+E0C1 |             ![](./images/mr-rg.png)            |
 |            Menu Button           |  Windows MR |          |  U+E0C2 |            ![](./images/mr-menu.png)           |
