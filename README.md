@@ -1,4 +1,4 @@
-# Bedrock Unicode Characters
+# bedrock-unicode-characters
 **Minecraft: Bedrock Edition** Unicode characters
 
 ## How to use
