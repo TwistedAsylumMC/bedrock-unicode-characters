@@ -1,5 +1,5 @@
 # bedrock-unicode-characters
-Minecraft:Bedrock Edition Unicode characters
+**Minecraft: Bedrock Edition** Unicode characters
 
 ## How to use
 Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, signs, titles etc.
@@ -9,8 +9,8 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 
 ## List of all characters
 
-|               Name               |   Platform   | Character | Unicode |                     In game                    |
-|:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
+|               Name               |   Platform  | Character | Unicode |                     In game                    |
+|:--------------------------------:|:-----------:|:---------:|:-------:|:----------------------------------------------:|
 |             A Button             |    Xbox     |          |  U+E000 |            ![](./images/xbox-a.png)            |
 |             B Button             |    Xbox     |          |  U+E001 |            ![](./images/xbox-b.png)            |
 |             X Button             |    Xbox     |          |  U+E002 |            ![](./images/xbox-x.png)            |
@@ -40,7 +40,7 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |              Sprint              |    Mobile   |          |  U+E01A |            ![](./images/sprint.png)            |
 |              Fly Up              |    Mobile   |          |  U+E01B |            ![](./images/fly-up.png)            |
 |             Fly Down             |    Mobile   |          |  U+E01C |           ![](./images/fly-down.png)           |
-|             Dismount             |    Mobile   |          |  U+E01D |            ![](./images/dismount.png)           |
+|             Dismount             |    Mobile   |          |  U+E01D |            ![](./images/dismount.png)          |
 |           Cross Button           | PlayStation |          |  U+E020 |             ![](./images/ps-x.png)             |
 |           Circle Button          | PlayStation |          |  U+E021 |             ![](./images/ps-o.png)             |
 |           Square Button          | PlayStation |          |  U+E022 |           ![](./images/ps-square.png)          |
@@ -78,9 +78,9 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |        Middle Mouse Button       |   Windows   |          |  U+E062 |         ![](./images/middle-mouse.png)         |
 |               Mouse              |   Windows   |          |  U+E063 |             ![](./images/mouse.png)            |
 |         Forward Arrow New        |    Mobile   |          |  U+E065 |        ![](./images/forward-arrow-new.png)     |
-|          Right Arrow New         |    Mobile   |          |  U+E066 |         ![](./images/right-arrow-new.png)      |
+|          Left Arrow New          |    Mobile   |          |  U+E066 |         ![](./images/left-arrow-new.png)       |
 |           Down Arrow New         |    Mobile   |          |  U+E067 |          ![](./images/down-arrow-new.png)      |
-|           Left Arrow New         |    Mobile   |          |  U+E068 |          ![](./images/left-arrow-new.png)      |
+|           Right Arrow New        |    Mobile   |          |  U+E068 |          ![](./images/right-arrow-new.png)     |
 |          Jump Button New         |    Mobile   |          |  U+E069 |          ![](./images/jump-button-new.png)     |
 |         Crouch Button New        |    Mobile   |          |  U+E06A |        ![](./images/crouch-button-new.png)     |
 |          Inventory Button        |    Mobile   |          |  U+E06B |         ![](./images/inventory-button.png)     |
@@ -108,6 +108,11 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |               Token              |     All     |          |  U+E105 |             ![](./images/token.png)            |
 |            Hollow Star           |     All     |          |  U+E106 |          ![](./images/hollow-star.png)         |
 |             Solid Star           |     All     |          |  U+E107 |          ![](./images/solid-star.png)          |
+|           Wooden Pickaxe         |     All     |          |  U+E108 |         ![](./images/wooden-pickaxe.png)       |
+|            Wooden Sword          |     All     |          |  U+E109 |          ![](./images/wooden-sword.png)        |
+|           Crafting Table         |     All     |          |  U+E10A |          ![](./images/crafting-table.png)      |
+|              Furnace             |     All     |          |  U+E10B |            ![](./images/furnace.png)           |
+|               Heart              |     All     |          |  U+E10C |             ![](./images/heart.png)            |
 |         Left Grab Button         |  Windows MR |          |  U+E0C0 |             ![](./images/mr-lg.png)            |
 |         Right Grab Button        |  Windows MR |          |  U+E0C1 |             ![](./images/mr-rg.png)            |
 |            Menu Button           |  Windows MR |          |  U+E0C2 |            ![](./images/mr-menu.png)           |
